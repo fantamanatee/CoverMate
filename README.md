@@ -1,8 +1,9 @@
-CoverMate: Your AI-Powered Cover Letter Assistant ✨
+### CoverMate: Your AI-Powered Cover Letter Assistant ✨
 Job applications can be time-consuming, especially when crafting custom cover letters. CoverMate automates this process, saving you hours of effort. CoverMate is a Google Docs add-on designed to auto-generate cover letters based on job descriptions. Simply copy and paste the job posting into a new Google Doc, activate the add-on, and let CoverMate do the rest!
 
+### DEMO:
 <a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
-  <img src="./CoverMate.jpg" alt="CoverMate Demo">
+  <img src="./CoverMate.jpg" alt="CoverMate Demo" style="width: 50%; max-width: 100%; height: auto;">
 </a>
 
 **User Flow:**
