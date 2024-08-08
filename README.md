@@ -6,7 +6,7 @@ Job applications can be time-consuming, especially when crafting custom cover le
 * ⚡ Generate Cover Letter: Activate CoverMate to create a tailored cover letter using predefined templates and paragraphs.
 * 🔍 Edit and Submit: Review, edit, and finalize your cover letter for submission.
 
-**Context Sheet:** A separate Google Sheet with predefined body paragraphs and a template for quick integration.
+**Context Sheet:** A separate Google Sheet with predefined body paragraphs and a template for quick integration. To define your Context sheet, make a copy of [this google sheet](https://docs.google.com/spreadsheets/d/1Mnm81YBCE6kH6mdiBIpssP-Uc9pOQ2ZDtodY5atSSNU/edit?usp=sharing).
 
 **Microservice Functionality:**
 Vector Database Creation: Automatically generate a vector database of body paragraph candidates from your Context Doc.
